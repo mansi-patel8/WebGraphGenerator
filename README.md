@@ -11,6 +11,7 @@ This program will generate a random graph in textual form that can be visualized
 ```bash
 1. The generated graph can be visualized in WebGraphViz software (http://www.webgraphviz.com/)
 2. You will need to include the vector library in the program.
+3. You will need header file for random number generation and some other functions.
 ```
 
 ## Program Description
